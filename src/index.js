@@ -1,6 +1,8 @@
 var express = require("express")
 const app = express();
 app.use(express.json());
+var cors = require('cors')
+app.use(cors())
 var MCCRepository = require("./repositories/MCCRepository")
 var MySQLConnection = require("./repositories/MySQLConnection")
 var UserService = require("./services/UserService")
