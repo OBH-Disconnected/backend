@@ -13,6 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "@fidm/x509": "^1.2.1",
+    "express": "^4.17.1",
+    "jsrsasign": "^8.0.12",
+    "node-forge": "^0.9.1"
   }
 }
