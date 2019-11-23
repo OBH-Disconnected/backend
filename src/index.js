@@ -2,6 +2,7 @@ var express = require("express")
 var AuthService = require("./services/AuthService")
 const app = express();
 var https = require('https')
+var fs = require('fs')
 
 var authService = new AuthService();
 
