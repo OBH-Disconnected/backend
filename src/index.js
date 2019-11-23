@@ -51,15 +51,23 @@ app.post("/bank-account", async (req, res) => {
     }
 })
 
-app.put("/bank-account/:id", async (req, res) => {
+app.put("/bank-account/transfer", async (req, res) => {
     try {
-        var id = req.params.id;
         var command = req.body
         var mySqlConnection = new MySQLConnection();
         var bankAccountRepository = new BankAccountRepository(mySqlConnection)
-        var account = await bankAccountRepository.getSingleById(id);
-        account.balance += command.difference;
-        await bankAccountRepository.update(account)
+        var senderAccount = await bankAccountRepository.getSingleById(command.sender);
+        var recipientAccount = await bankAccountRepository.getSingleById(command.recipient)
+        if (senderAccount.balance < command.value) {
+            res.send({
+                error: "Transfer cannot be done."
+            })
+            return;
+        }
+        senderAccount.balance -= command.value
+        recipientAccount.balance += command.value
+        await bankAccountRepository.update(senderAccount)
+        await bankAccountRepository.update(recipientAccount)
         res.send("")
     }
     catch (e) {
