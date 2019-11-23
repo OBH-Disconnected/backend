@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@fidm/x509": "^1.2.1",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "jsrsasign": "^8.0.12",
     "mysql": "^2.17.1",
