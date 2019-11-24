@@ -1,0 +1,2954 @@
+[
+ {
+   "mcc": 742,
+   "nazwa": "Uslugi Weterynaryjne"
+ },
+ {
+   "mcc": 763,
+   "nazwa": "Spoldzielnie Rolnicze"
+ },
+ {
+   "mcc": 780,
+   "nazwa": "Uslugi ogrodnicze"
+ },
+ {
+   "mcc": 780,
+   "nazwa": "Uslugi architektury obrazu"
+ },
+ {
+   "mcc": 1520,
+   "nazwa": "Generalni Wykonawcy obiekty mieszkalne i komercyjne"
+ },
+ {
+   "mcc": 1711,
+   "nazwa": "Wykonawcy instalacji klimatyzacyjnej sprzedaz i montaz"
+ },
+ {
+   "mcc": 1711,
+   "nazwa": "Wykonawcy instalacji centralnego ogrzewania sprzedaz serwis montaz"
+ },
+ {
+   "mcc": 1731,
+   "nazwa": "Wykonawcy instalacji elektrycznej"
+ },
+ {
+   "mcc": 1740,
+   "nazwa": "Wykonawcy izolacji"
+ },
+ {
+   "mcc": 1740,
+   "nazwa": "Wykonawcy prace kamieniarskie"
+ },
+ {
+   "mcc": 1740,
+   "nazwa": "Wykonawcy prace tynkarskie"
+ },
+ {
+   "mcc": 1740,
+   "nazwa": "Wykonawcy prace kamieniarskie"
+ },
+ {
+   "mcc": 1740,
+   "nazwa": "Wykonawcy prace dekarskie"
+ },
+ {
+   "mcc": 1750,
+   "nazwa": "Wykonawcy prace ciesielskie"
+ },
+ {
+   "mcc": 1761,
+   "nazwa": "Wykonawcy pokrycia dachowe"
+ },
+ {
+   "mcc": 1761,
+   "nazwa": "Wykonawcy blacharstwo"
+ },
+ {
+   "mcc": 1761,
+   "nazwa": "Wykonawcy siding"
+ },
+ {
+   "mcc": 1771,
+   "nazwa": "Wykonawcy prace betonowe"
+ },
+ {
+   "mcc": 1799,
+   "nazwa": "Wykonawcy zawody specjalne nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 2741,
+   "nazwa": "Rozne wydawnictwa drukarnie"
+ },
+ {
+   "mcc": 2791,
+   "nazwa": "Sklad tekstu wytwarzanie matryc uslugi powiazane"
+ },
+ {
+   "mcc": 2842,
+   "nazwa": "Czyszczenie polerowanie oraz preparaty sanitarne"
+ },
+ {
+   "mcc": 3000,
+   "nazwa": "United Airlines"
+ },
+ {
+   "mcc": 3001,
+   "nazwa": "American Airlines"
+ },
+ {
+   "mcc": 3002,
+   "nazwa": "Pan American"
+ },
+ {
+   "mcc": 3004,
+   "nazwa": "Trans World Airlines"
+ },
+ {
+   "mcc": 3005,
+   "nazwa": "British Airways"
+ },
+ {
+   "mcc": 3006,
+   "nazwa": "Japan Airlines"
+ },
+ {
+   "mcc": 3007,
+   "nazwa": "Air France"
+ },
+ {
+   "mcc": 3008,
+   "nazwa": "Lufthansa"
+ },
+ {
+   "mcc": 3009,
+   "nazwa": "Air Canada"
+ },
+ {
+   "mcc": 3010,
+   "nazwa": "Klm (Royal Dutch Airlines)"
+ },
+ {
+   "mcc": 3011,
+   "nazwa": "Aeorflot"
+ },
+ {
+   "mcc": 3012,
+   "nazwa": "Quantas"
+ },
+ {
+   "mcc": 3013,
+   "nazwa": "Alitalia"
+ },
+ {
+   "mcc": 3014,
+   "nazwa": "Saudia Arabian Airlines"
+ },
+ {
+   "mcc": 3015,
+   "nazwa": "Swissair"
+ },
+ {
+   "mcc": 3016,
+   "nazwa": "Sas"
+ },
+ {
+   "mcc": 3017,
+   "nazwa": "South African Airways"
+ },
+ {
+   "mcc": 3018,
+   "nazwa": "Varig (Brazil)"
+ },
+ {
+   "mcc": 3020,
+   "nazwa": "Air-India"
+ },
+ {
+   "mcc": 3021,
+   "nazwa": "Air Algerie"
+ },
+ {
+   "mcc": 3022,
+   "nazwa": "Philippine Airlines"
+ },
+ {
+   "mcc": 3023,
+   "nazwa": "Mexicana"
+ },
+ {
+   "mcc": 3024,
+   "nazwa": "Pakistan International"
+ },
+ {
+   "mcc": 3025,
+   "nazwa": "Air New Zealand"
+ },
+ {
+   "mcc": 3027,
+   "nazwa": "Uta/Interair"
+ },
+ {
+   "mcc": 3028,
+   "nazwa": "Air Malta"
+ },
+ {
+   "mcc": 3029,
+   "nazwa": "Sabena"
+ },
+ {
+   "mcc": 3030,
+   "nazwa": "Aerolineas Argentinas"
+ },
+ {
+   "mcc": 3031,
+   "nazwa": "Olympic Airways"
+ },
+ {
+   "mcc": 3032,
+   "nazwa": "El Al"
+ },
+ {
+   "mcc": 3033,
+   "nazwa": "Ansett Airlines"
+ },
+ {
+   "mcc": 3034,
+   "nazwa": "Austrainlian Airlines"
+ },
+ {
+   "mcc": 3035,
+   "nazwa": "Tap (Portugal)"
+ },
+ {
+   "mcc": 3036,
+   "nazwa": "Vasp (Brazil)"
+ },
+ {
+   "mcc": 3037,
+   "nazwa": "Egyptair"
+ },
+ {
+   "mcc": 3038,
+   "nazwa": "Kuwait Airlines"
+ },
+ {
+   "mcc": 3039,
+   "nazwa": "Avianca"
+ },
+ {
+   "mcc": 3040,
+   "nazwa": "Gulf Air (Bahrain)"
+ },
+ {
+   "mcc": 3041,
+   "nazwa": "Balkan-Bulgarian Airlines"
+ },
+ {
+   "mcc": 3042,
+   "nazwa": "Finnair"
+ },
+ {
+   "mcc": 3043,
+   "nazwa": "Aer Lingus"
+ },
+ {
+   "mcc": 3044,
+   "nazwa": "Air Lanka"
+ },
+ {
+   "mcc": 3045,
+   "nazwa": "Nigeria Airways"
+ },
+ {
+   "mcc": 3046,
+   "nazwa": "Cruzeiro Do Sul (Brazij)"
+ },
+ {
+   "mcc": 3047,
+   "nazwa": "Thy (Turkey)"
+ },
+ {
+   "mcc": 3048,
+   "nazwa": "Royal Air Maroc"
+ },
+ {
+   "mcc": 3049,
+   "nazwa": "Tunis Air"
+ },
+ {
+   "mcc": 3050,
+   "nazwa": "Icelandair"
+ },
+ {
+   "mcc": 3051,
+   "nazwa": "Austrian Airlines"
+ },
+ {
+   "mcc": 3052,
+   "nazwa": "Lanchile"
+ },
+ {
+   "mcc": 3053,
+   "nazwa": "Aviaco (Spain)"
+ },
+ {
+   "mcc": 3054,
+   "nazwa": "Ladeco (Chile)"
+ },
+ {
+   "mcc": 3055,
+   "nazwa": "Lab (Bolivia)"
+ },
+ {
+   "mcc": 3056,
+   "nazwa": "Quebecaire"
+ },
+ {
+   "mcc": 3057,
+   "nazwa": "Eastwest Airlines (Australia)"
+ },
+ {
+   "mcc": 3058,
+   "nazwa": "Delta"
+ },
+ {
+   "mcc": 3060,
+   "nazwa": "Northwest"
+ },
+ {
+   "mcc": 3061,
+   "nazwa": "Continental"
+ },
+ {
+   "mcc": 3062,
+   "nazwa": "Western"
+ },
+ {
+   "mcc": 3063,
+   "nazwa": "Us Air"
+ },
+ {
+   "mcc": 3065,
+   "nazwa": "Airinter"
+ },
+ {
+   "mcc": 3066,
+   "nazwa": "Southwest"
+ },
+ {
+   "mcc": 3071,
+   "nazwa": "Air British Colubia"
+ },
+ {
+   "mcc": 3075,
+   "nazwa": "Singapore Airlines"
+ },
+ {
+   "mcc": 3076,
+   "nazwa": "Aeromexico"
+ },
+ {
+   "mcc": 3077,
+   "nazwa": "Thai Airways"
+ },
+ {
+   "mcc": 3078,
+   "nazwa": "China Airlines"
+ },
+ {
+   "mcc": 3081,
+   "nazwa": "Nordair"
+ },
+ {
+   "mcc": 3082,
+   "nazwa": "Korean Airlines"
+ },
+ {
+   "mcc": 3083,
+   "nazwa": "Air Afrigue"
+ },
+ {
+   "mcc": 3084,
+   "nazwa": "Eva Airlines"
+ },
+ {
+   "mcc": 3085,
+   "nazwa": "Midwest Express Airlines Inc."
+ },
+ {
+   "mcc": 3087,
+   "nazwa": "Metro Airlines"
+ },
+ {
+   "mcc": 3088,
+   "nazwa": "Croatia Airlines"
+ },
+ {
+   "mcc": 3089,
+   "nazwa": "Transaero"
+ },
+ {
+   "mcc": 3094,
+   "nazwa": "Zambia Airways"
+ },
+ {
+   "mcc": 3096,
+   "nazwa": "Air Zimbabwe"
+ },
+ {
+   "mcc": 3099,
+   "nazwa": "Cathay Pacific"
+ },
+ {
+   "mcc": 3100,
+   "nazwa": "Malaysian Airline System"
+ },
+ {
+   "mcc": 3102,
+   "nazwa": "Iberia"
+ },
+ {
+   "mcc": 3103,
+   "nazwa": "Garuda (Indonesia)"
+ },
+ {
+   "mcc": 3106,
+   "nazwa": "BRAATHENS S.A.F.E. (NORWAY)"
+ },
+ {
+   "mcc": 3110,
+   "nazwa": "Wings Airways"
+ },
+ {
+   "mcc": 3111,
+   "nazwa": "British Midland"
+ },
+ {
+   "mcc": 3112,
+   "nazwa": "Windward Island"
+ },
+ {
+   "mcc": 3117,
+   "nazwa": "Viasa"
+ },
+ {
+   "mcc": 3118,
+   "nazwa": "Valley Airlines"
+ },
+ {
+   "mcc": 3125,
+   "nazwa": "Tan"
+ },
+ {
+   "mcc": 3126,
+   "nazwa": "Talair"
+ },
+ {
+   "mcc": 3127,
+   "nazwa": "Taca International"
+ },
+ {
+   "mcc": 3129,
+   "nazwa": "Surinam Airways"
+ },
+ {
+   "mcc": 3130,
+   "nazwa": "Sun World International"
+ },
+ {
+   "mcc": 3133,
+   "nazwa": "Sunbelt Airlines"
+ },
+ {
+   "mcc": 3135,
+   "nazwa": "Sudan Airways"
+ },
+ {
+   "mcc": 3137,
+   "nazwa": "Singleton"
+ },
+ {
+   "mcc": 3138,
+   "nazwa": "Simmons Airlines"
+ },
+ {
+   "mcc": 3143,
+   "nazwa": "Scenic Airlines"
+ },
+ {
+   "mcc": 3144,
+   "nazwa": "Virgin Atlantic"
+ },
+ {
+   "mcc": 3145,
+   "nazwa": "San Juan Airlines"
+ },
+ {
+   "mcc": 3146,
+   "nazwa": "Luxair"
+ },
+ {
+   "mcc": 3151,
+   "nazwa": "Air Zaire"
+ },
+ {
+   "mcc": 3154,
+   "nazwa": "Princeville"
+ },
+ {
+   "mcc": 3159,
+   "nazwa": "Pba"
+ },
+ {
+   "mcc": 3161,
+   "nazwa": "All Nippon Airways"
+ },
+ {
+   "mcc": 3164,
+   "nazwa": "Norontair"
+ },
+ {
+   "mcc": 3165,
+   "nazwa": "New York Helicopter"
+ },
+ {
+   "mcc": 3170,
+   "nazwa": "Nount Cook"
+ },
+ {
+   "mcc": 3171,
+   "nazwa": "Canadian Airlines International"
+ },
+ {
+   "mcc": 3172,
+   "nazwa": "Nationair"
+ },
+ {
+   "mcc": 3176,
+   "nazwa": "Metroflight Airlines"
+ },
+ {
+   "mcc": 3178,
+   "nazwa": "Mesa Air"
+ },
+ {
+   "mcc": 3181,
+   "nazwa": "Malev"
+ },
+ {
+   "mcc": 3182,
+   "nazwa": "Lot (Poland)"
+ },
+ {
+   "mcc": 3184,
+   "nazwa": "Liat"
+ },
+ {
+   "mcc": 3185,
+   "nazwa": "Lav (Venezuela)"
+ },
+ {
+   "mcc": 3186,
+   "nazwa": "Lap (Paraguay)"
+ },
+ {
+   "mcc": 3187,
+   "nazwa": "Lacsa (Costa Rica)"
+ },
+ {
+   "mcc": 3190,
+   "nazwa": "Jugoslav Air"
+ },
+ {
+   "mcc": 3191,
+   "nazwa": "Island Airlines"
+ },
+ {
+   "mcc": 3192,
+   "nazwa": "Iran Air"
+ },
+ {
+   "mcc": 3193,
+   "nazwa": "Indian Airlines"
+ },
+ {
+   "mcc": 3196,
+   "nazwa": "Hawaiian Air"
+ },
+ {
+   "mcc": 3197,
+   "nazwa": "Havasu Airlines"
+ },
+ {
+   "mcc": 3200,
+   "nazwa": "Fuyana Airways"
+ },
+ {
+   "mcc": 3203,
+   "nazwa": "Golden Pacific Air"
+ },
+ {
+   "mcc": 3204,
+   "nazwa": "Freedom Air"
+ },
+ {
+   "mcc": 3212,
+   "nazwa": "Dominicana"
+ },
+ {
+   "mcc": 3215,
+   "nazwa": "Dan Air Services"
+ },
+ {
+   "mcc": 3216,
+   "nazwa": "Cumberland Airlines"
+ },
+ {
+   "mcc": 3217,
+   "nazwa": "Csa"
+ },
+ {
+   "mcc": 3218,
+   "nazwa": "Crown Air"
+ },
+ {
+   "mcc": 3219,
+   "nazwa": "Copa"
+ },
+ {
+   "mcc": 3220,
+   "nazwa": "Compania Faucett"
+ },
+ {
+   "mcc": 3221,
+   "nazwa": "Transportes Aeros Militares Eccuatoranos"
+ },
+ {
+   "mcc": 3222,
+   "nazwa": "Command Airways"
+ },
+ {
+   "mcc": 3223,
+   "nazwa": "Comair"
+ },
+ {
+   "mcc": 3228,
+   "nazwa": "Cayman Airways"
+ },
+ {
+   "mcc": 3229,
+   "nazwa": "Saeta Sociaedad Ecuatorianos De Transportes Aereos"
+ },
+ {
+   "mcc": 3231,
+   "nazwa": "SASHA SERVICIO AERO DE HONDURAS"
+ },
+ {
+   "mcc": 3233,
+   "nazwa": "Capitol Air"
+ },
+ {
+   "mcc": 3234,
+   "nazwa": "Bwia"
+ },
+ {
+   "mcc": 3235,
+   "nazwa": "Brokway Air"
+ },
+ {
+   "mcc": 3238,
+   "nazwa": "Bemidji Airlines"
+ },
+ {
+   "mcc": 3239,
+   "nazwa": "Bar Harbor Airlines"
+ },
+ {
+   "mcc": 3240,
+   "nazwa": "Bahamasair"
+ },
+ {
+   "mcc": 3241,
+   "nazwa": "Aviateca (Guatemala)"
+ },
+ {
+   "mcc": 3242,
+   "nazwa": "Avensa"
+ },
+ {
+   "mcc": 3243,
+   "nazwa": "Austrian Air Service"
+ },
+ {
+   "mcc": 3251,
+   "nazwa": "Aloha Airlines"
+ },
+ {
+   "mcc": 3252,
+   "nazwa": "Alm"
+ },
+ {
+   "mcc": 3253,
+   "nazwa": "America West"
+ },
+ {
+   "mcc": 3254,
+   "nazwa": "Trump Airline"
+ },
+ {
+   "mcc": 3256,
+   "nazwa": "Alaska Airlines"
+ },
+ {
+   "mcc": 3259,
+   "nazwa": "American Trans Air"
+ },
+ {
+   "mcc": 3261,
+   "nazwa": "Air China"
+ },
+ {
+   "mcc": 3262,
+   "nazwa": "Reno Air Inc."
+ },
+ {
+   "mcc": 3266,
+   "nazwa": "Air Seychelles"
+ },
+ {
+   "mcc": 3267,
+   "nazwa": "Air Panama"
+ },
+ {
+   "mcc": 3280,
+   "nazwa": "Air Jamaica"
+ },
+ {
+   "mcc": 3282,
+   "nazwa": "Air Djibouti"
+ },
+ {
+   "mcc": 3284,
+   "nazwa": "Aero Virgin Islands"
+ },
+ {
+   "mcc": 3285,
+   "nazwa": "Aero Peru"
+ },
+ {
+   "mcc": 3286,
+   "nazwa": "Aerolineas Nicaraguensis"
+ },
+ {
+   "mcc": 3287,
+   "nazwa": "Aero Coach Avaiation"
+ },
+ {
+   "mcc": 3291,
+   "nazwa": "Ariana Afghan"
+ },
+ {
+   "mcc": 3292,
+   "nazwa": "Cyprus Airways"
+ },
+ {
+   "mcc": 3293,
+   "nazwa": "Ecuatoriana"
+ },
+ {
+   "mcc": 3294,
+   "nazwa": "Ethiopian Airlines"
+ },
+ {
+   "mcc": 3295,
+   "nazwa": "Kenya Airlines"
+ },
+ {
+   "mcc": 3298,
+   "nazwa": "Air Mauritius"
+ },
+ {
+   "mcc": 3299,
+   "nazwa": "Widerols Flyveselskap"
+ },
+ {
+   "mcc": 3351,
+   "nazwa": "Affiliated Auto Rental"
+ },
+ {
+   "mcc": 3352,
+   "nazwa": "AMERICAN INTL RENT-A-CAR"
+ },
+ {
+   "mcc": 3353,
+   "nazwa": "Brooks Rent-A-Car"
+ },
+ {
+   "mcc": 3354,
+   "nazwa": "Action Auto Rental"
+ },
+ {
+   "mcc": 3357,
+   "nazwa": "Hertz Rent-A-Car"
+ },
+ {
+   "mcc": 3359,
+   "nazwa": "Payless Car Rental"
+ },
+ {
+   "mcc": 3360,
+   "nazwa": "Snappy Car Rental"
+ },
+ {
+   "mcc": 3361,
+   "nazwa": "Airways Rent-A-Car"
+ },
+ {
+   "mcc": 3362,
+   "nazwa": "Altra Auto Rental"
+ },
+ {
+   "mcc": 3364,
+   "nazwa": "Agency Rent-A-Car"
+ },
+ {
+   "mcc": 3366,
+   "nazwa": "Budget Rent-A-Car"
+ },
+ {
+   "mcc": 3368,
+   "nazwa": "Holiday Rent-A-Wreck"
+ },
+ {
+   "mcc": 3370,
+   "nazwa": "Rent-A-Wreck"
+ },
+ {
+   "mcc": 3376,
+   "nazwa": "Ajax Rent-A-Car"
+ },
+ {
+   "mcc": 3381,
+   "nazwa": "Europ Car"
+ },
+ {
+   "mcc": 3385,
+   "nazwa": "Tropical Rent-A-Car"
+ },
+ {
+   "mcc": 3386,
+   "nazwa": "Showcase Rental Cars"
+ },
+ {
+   "mcc": 3387,
+   "nazwa": "Alamo Rent-A-Car"
+ },
+ {
+   "mcc": 3389,
+   "nazwa": "Avis Rent-A-Car"
+ },
+ {
+   "mcc": 3390,
+   "nazwa": "Dollar Rent-A-Car"
+ },
+ {
+   "mcc": 3391,
+   "nazwa": "Europe By Car"
+ },
+ {
+   "mcc": 3393,
+   "nazwa": "National Car Rental"
+ },
+ {
+   "mcc": 3394,
+   "nazwa": "KEMWELL GROUP RENT-A-CAR"
+ },
+ {
+   "mcc": 3395,
+   "nazwa": "Thrifty Rent-A-Car"
+ },
+ {
+   "mcc": 3396,
+   "nazwa": "Tilden Tent-A-Car"
+ },
+ {
+   "mcc": 3398,
+   "nazwa": "ECONO-CAR RENT-A-CAR"
+ },
+ {
+   "mcc": 3400,
+   "nazwa": "AUTO HOST COST CAR RENTALS"
+ },
+ {
+   "mcc": 3405,
+   "nazwa": "Enterprise Rent-A-Car"
+ },
+ {
+   "mcc": 3409,
+   "nazwa": "General Rent-A-Car"
+ },
+ {
+   "mcc": 3412,
+   "nazwa": "A-1 Rent-A-Car"
+ },
+ {
+   "mcc": 3414,
+   "nazwa": "GODFREY NATL RENT-A-CAR"
+ },
+ {
+   "mcc": 3419,
+   "nazwa": "Alpha Rent-A-Car"
+ },
+ {
+   "mcc": 3420,
+   "nazwa": "ANSA INTL RENT-A-CAR"
+ },
+ {
+   "mcc": 3421,
+   "nazwa": "Allstae Rent-A-Car"
+ },
+ {
+   "mcc": 3423,
+   "nazwa": "Avcar Rent-A-Car"
+ },
+ {
+   "mcc": 3425,
+   "nazwa": "Automate Rent-A-Car"
+ },
+ {
+   "mcc": 3427,
+   "nazwa": "Avon Rent-A-Car"
+ },
+ {
+   "mcc": 3428,
+   "nazwa": "Carey Rent-A-Car"
+ },
+ {
+   "mcc": 3429,
+   "nazwa": "Insurance Rent-A-Car"
+ },
+ {
+   "mcc": 3430,
+   "nazwa": "Major Rent-A-Car"
+ },
+ {
+   "mcc": 3431,
+   "nazwa": "Replacement Rent-A-Car"
+ },
+ {
+   "mcc": 3432,
+   "nazwa": "Reserve Rent-A-Car"
+ },
+ {
+   "mcc": 3433,
+   "nazwa": "UGLY DUCKLING RENT-A-CAR"
+ },
+ {
+   "mcc": 3434,
+   "nazwa": "Usa Rent-A-Car"
+ },
+ {
+   "mcc": 3435,
+   "nazwa": "Value Rent-A-Car"
+ },
+ {
+   "mcc": 3436,
+   "nazwa": "Autohansa Rent-A-Car"
+ },
+ {
+   "mcc": 3437,
+   "nazwa": "Cite Rent-A-Car"
+ },
+ {
+   "mcc": 3438,
+   "nazwa": "Interent Rent-A-Car"
+ },
+ {
+   "mcc": 3439,
+   "nazwa": "Milleville Rent-A-Car"
+ },
+ {
+   "mcc": 3440,
+   "nazwa": "VIA ROUTE RENT-A-CAR"
+ },
+ {
+   "mcc": 3501,
+   "nazwa": "Holiday Inn Express"
+ },
+ {
+   "mcc": 3501,
+   "nazwa": "Holiday Inns"
+ },
+ {
+   "mcc": 3502,
+   "nazwa": "Best Western Hotels"
+ },
+ {
+   "mcc": 3503,
+   "nazwa": "Sheraton Hotels"
+ },
+ {
+   "mcc": 3504,
+   "nazwa": "Hilton Hotels"
+ },
+ {
+   "mcc": 3505,
+   "nazwa": "Forte Hotels"
+ },
+ {
+   "mcc": 3506,
+   "nazwa": "Golden Tulip Hotels"
+ },
+ {
+   "mcc": 3507,
+   "nazwa": "Friendship Inns"
+ },
+ {
+   "mcc": 3508,
+   "nazwa": "Quality Inns"
+ },
+ {
+   "mcc": 3508,
+   "nazwa": "Quality Suites"
+ },
+ {
+   "mcc": 3509,
+   "nazwa": "Marriott Hotels"
+ },
+ {
+   "mcc": 3510,
+   "nazwa": "Days Inn"
+ },
+ {
+   "mcc": 3510,
+   "nazwa": "Daystop"
+ },
+ {
+   "mcc": 3511,
+   "nazwa": "Arabella Hotels"
+ },
+ {
+   "mcc": 3512,
+   "nazwa": "Inter-Continental Hotels"
+ },
+ {
+   "mcc": 3513,
+   "nazwa": "Westin Hotels"
+ },
+ {
+   "mcc": 3515,
+   "nazwa": "Rodeway Inns"
+ },
+ {
+   "mcc": 3516,
+   "nazwa": "La Quinta Motor Inns"
+ },
+ {
+   "mcc": 3517,
+   "nazwa": "Americana Hotels"
+ },
+ {
+   "mcc": 3518,
+   "nazwa": "Sol Hotels"
+ },
+ {
+   "mcc": 3519,
+   "nazwa": "Pullman International Hotels"
+ },
+ {
+   "mcc": 3520,
+   "nazwa": "Meridien Hotels"
+ },
+ {
+   "mcc": 3521,
+   "nazwa": "CREST HOTELS (see FORTE HOTELS)"
+ },
+ {
+   "mcc": 3522,
+   "nazwa": "Tokyo Hotel"
+ },
+ {
+   "mcc": 3523,
+   "nazwa": "Pennsula Hotel"
+ },
+ {
+   "mcc": 3524,
+   "nazwa": "Welcomgroup Hotels"
+ },
+ {
+   "mcc": 3525,
+   "nazwa": "Dunfey Hotels"
+ },
+ {
+   "mcc": 3626,
+   "nazwa": "Prince Hotels"
+ },
+ {
+   "mcc": 3527,
+   "nazwa": "Downtowner-Passport Hotel"
+ },
+ {
+   "mcc": 3528,
+   "nazwa": "Red Lion Hotels"
+ },
+ {
+   "mcc": 3528,
+   "nazwa": "Red Lion Inns"
+ },
+ {
+   "mcc": 3529,
+   "nazwa": "Cp Hotels"
+ },
+ {
+   "mcc": 3530,
+   "nazwa": "Renaissance Hotels"
+ },
+ {
+   "mcc": 3530,
+   "nazwa": "Stouffer Hotels"
+ },
+ {
+   "mcc": 3531,
+   "nazwa": "Astir Hotels"
+ },
+ {
+   "mcc": 3532,
+   "nazwa": "Sun Route Hotels"
+ },
+ {
+   "mcc": 3533,
+   "nazwa": "Hotel Ibis"
+ },
+ {
+   "mcc": 3534,
+   "nazwa": "Southern Pacific Hotels"
+ },
+ {
+   "mcc": 3535,
+   "nazwa": "Hilton International"
+ },
+ {
+   "mcc": 3536,
+   "nazwa": "Amfac Hotels"
+ },
+ {
+   "mcc": 3537,
+   "nazwa": "Ana Hotel"
+ },
+ {
+   "mcc": 3538,
+   "nazwa": "Concorde Hotels"
+ },
+ {
+   "mcc": 3540,
+   "nazwa": "Iberotel Hotels"
+ },
+ {
+   "mcc": 3541,
+   "nazwa": "Hotel Okura"
+ },
+ {
+   "mcc": 3542,
+   "nazwa": "Royal Hotels"
+ },
+ {
+   "mcc": 3543,
+   "nazwa": "Four Seasons Hotels"
+ },
+ {
+   "mcc": 3544,
+   "nazwa": "Ciga Hotels"
+ },
+ {
+   "mcc": 3545,
+   "nazwa": "Shangri-La International"
+ },
+ {
+   "mcc": 3548,
+   "nazwa": "Hoteles Melia"
+ },
+ {
+   "mcc": 3549,
+   "nazwa": "Auberge Des Governeurs"
+ },
+ {
+   "mcc": 3550,
+   "nazwa": "Regal 8 Inns"
+ },
+ {
+   "mcc": 3552,
+   "nazwa": "Coast Hotels"
+ },
+ {
+   "mcc": 3553,
+   "nazwa": "Park Inns International"
+ },
+ {
+   "mcc": 3558,
+   "nazwa": "Jolly Hotels"
+ },
+ {
+   "mcc": 3562,
+   "nazwa": "Comfort Inns"
+ },
+ {
+   "mcc": 3563,
+   "nazwa": "Journeyls End Motls"
+ },
+ {
+   "mcc": 3565,
+   "nazwa": "Relax Inns"
+ },
+ {
+   "mcc": 3568,
+   "nazwa": "Ladbroke Hotels"
+ },
+ {
+   "mcc": 3570,
+   "nazwa": "Forum Hotels"
+ },
+ {
+   "mcc": 3572,
+   "nazwa": "Miyako Hotels"
+ },
+ {
+   "mcc": 3573,
+   "nazwa": "Sandman Hotels"
+ },
+ {
+   "mcc": 3574,
+   "nazwa": "Venture Inns"
+ },
+ {
+   "mcc": 3575,
+   "nazwa": "Vagabond Hotels"
+ },
+ {
+   "mcc": 3577,
+   "nazwa": "Mandarin Oriental Hotel"
+ },
+ {
+   "mcc": 3579,
+   "nazwa": "Hotel Mercure"
+ },
+ {
+   "mcc": 3581,
+   "nazwa": "Delta Hotel"
+ },
+ {
+   "mcc": 3583,
+   "nazwa": "Sas Hotels"
+ },
+ {
+   "mcc": 3584,
+   "nazwa": "Princess Hotels International"
+ },
+ {
+   "mcc": 3585,
+   "nazwa": "Hungar Hotels"
+ },
+ {
+   "mcc": 3586,
+   "nazwa": "Sokos Hotels"
+ },
+ {
+   "mcc": 3587,
+   "nazwa": "Doral Hotels"
+ },
+ {
+   "mcc": 3588,
+   "nazwa": "Helmsley Hotels"
+ },
+ {
+   "mcc": 3590,
+   "nazwa": "Fairmont Hotels"
+ },
+ {
+   "mcc": 3591,
+   "nazwa": "Sonesta Hotels"
+ },
+ {
+   "mcc": 3592,
+   "nazwa": "Omni Hotels"
+ },
+ {
+   "mcc": 3593,
+   "nazwa": "Cunard Hotels"
+ },
+ {
+   "mcc": 3595,
+   "nazwa": "Hospitality International"
+ },
+ {
+   "mcc": 3598,
+   "nazwa": "Regent International Hotels"
+ },
+ {
+   "mcc": 3599,
+   "nazwa": "Pannonia Hotels"
+ },
+ {
+   "mcc": 3603,
+   "nazwa": "Noahls Hotels"
+ },
+ {
+   "mcc": 3612,
+   "nazwa": "Movenpick Hotels"
+ },
+ {
+   "mcc": 3615,
+   "nazwa": "Travelodge"
+ },
+ {
+   "mcc": 3620,
+   "nazwa": "Telford International"
+ },
+ {
+   "mcc": 3622,
+   "nazwa": "Merlin Hotels"
+ },
+ {
+   "mcc": 3623,
+   "nazwa": "Dorint Hotels"
+ },
+ {
+   "mcc": 3625,
+   "nazwa": "Hotle Universale"
+ },
+ {
+   "mcc": 3629,
+   "nazwa": "Dan Hotels"
+ },
+ {
+   "mcc": 3633,
+   "nazwa": "Rank Hotels"
+ },
+ {
+   "mcc": 3634,
+   "nazwa": "Swissotel"
+ },
+ {
+   "mcc": 3635,
+   "nazwa": "Reso Hotels"
+ },
+ {
+   "mcc": 3636,
+   "nazwa": "Sarova Hotels"
+ },
+ {
+   "mcc": 3637,
+   "nazwa": "Ramada Inns"
+ },
+ {
+   "mcc": 3637,
+   "nazwa": "Ramada Limited"
+ },
+ {
+   "mcc": 3638,
+   "nazwa": "Ho Jo Inn"
+ },
+ {
+   "mcc": 3638,
+   "nazwa": "Howard Johnson"
+ },
+ {
+   "mcc": 3639,
+   "nazwa": "Mount Charlotte Thistle"
+ },
+ {
+   "mcc": 3640,
+   "nazwa": "Hyatt Hotel"
+ },
+ {
+   "mcc": 3641,
+   "nazwa": "Sofitel Hotels"
+ },
+ {
+   "mcc": 3642,
+   "nazwa": "Novotel Hotels"
+ },
+ {
+   "mcc": 3643,
+   "nazwa": "Steigenberger Hotels"
+ },
+ {
+   "mcc": 3644,
+   "nazwa": "Econo Lodges"
+ },
+ {
+   "mcc": 3645,
+   "nazwa": "Queens Moat Houses"
+ },
+ {
+   "mcc": 3646,
+   "nazwa": "Swallow Hotels"
+ },
+ {
+   "mcc": 3647,
+   "nazwa": "Husa Hotels"
+ },
+ {
+   "mcc": 3648,
+   "nazwa": "De Vere Hotels"
+ },
+ {
+   "mcc": 3649,
+   "nazwa": "Radisson Hotels"
+ },
+ {
+   "mcc": 3650,
+   "nazwa": "Red Rook Inns"
+ },
+ {
+   "mcc": 3651,
+   "nazwa": "Imperial London Hotel"
+ },
+ {
+   "mcc": 3652,
+   "nazwa": "Embassy Hotels"
+ },
+ {
+   "mcc": 3653,
+   "nazwa": "Penta Hotels"
+ },
+ {
+   "mcc": 3654,
+   "nazwa": "Loews Hotels"
+ },
+ {
+   "mcc": 3655,
+   "nazwa": "Scandic Hotels"
+ },
+ {
+   "mcc": 3656,
+   "nazwa": "Sara Hotels"
+ },
+ {
+   "mcc": 3657,
+   "nazwa": "Oberoi Hotels"
+ },
+ {
+   "mcc": 3658,
+   "nazwa": "Otani Hotels"
+ },
+ {
+   "mcc": 3659,
+   "nazwa": "Taj Hotels International"
+ },
+ {
+   "mcc": 3660,
+   "nazwa": "Knights Inns"
+ },
+ {
+   "mcc": 3661,
+   "nazwa": "Metropole Hotels"
+ },
+ {
+   "mcc": 3663,
+   "nazwa": "Hoteles El Presidents"
+ },
+ {
+   "mcc": 3664,
+   "nazwa": "Flag Inn"
+ },
+ {
+   "mcc": 3665,
+   "nazwa": "Hampton Inns"
+ },
+ {
+   "mcc": 3666,
+   "nazwa": "Stakis Hotels"
+ },
+ {
+   "mcc": 3668,
+   "nazwa": "Maritim Hotels"
+ },
+ {
+   "mcc": 3670,
+   "nazwa": "Arcard Hotels"
+ },
+ {
+   "mcc": 3671,
+   "nazwa": "Arctia Hotels"
+ },
+ {
+   "mcc": 3672,
+   "nazwa": "Campaniel Hotels"
+ },
+ {
+   "mcc": 3673,
+   "nazwa": "Ibusz Hotels"
+ },
+ {
+   "mcc": 3674,
+   "nazwa": "Rantasipi Hotels"
+ },
+ {
+   "mcc": 3675,
+   "nazwa": "Interhotel Cedok"
+ },
+ {
+   "mcc": 3677,
+   "nazwa": "Climat De France Hotels"
+ },
+ {
+   "mcc": 3678,
+   "nazwa": "Cumulus Hotels"
+ },
+ {
+   "mcc": 3679,
+   "nazwa": "Danubius Hotel"
+ },
+ {
+   "mcc": 3681,
+   "nazwa": "Adams Mark Hotels"
+ },
+ {
+   "mcc": 3682,
+   "nazwa": "Allstar Inns"
+ },
+ {
+   "mcc": 3684,
+   "nazwa": "Budget Host Inns"
+ },
+ {
+   "mcc": 3685,
+   "nazwa": "Budgetel Hotels"
+ },
+ {
+   "mcc": 3686,
+   "nazwa": "Suisse Chalets"
+ },
+ {
+   "mcc": 3687,
+   "nazwa": "Clarion Hotels"
+ },
+ {
+   "mcc": 3688,
+   "nazwa": "Compri Hotels"
+ },
+ {
+   "mcc": 3688,
+   "nazwa": "Compri Hotels"
+ },
+ {
+   "mcc": 3690,
+   "nazwa": "Courtyard By Marriott"
+ },
+ {
+   "mcc": 3689,
+   "nazwa": "Consort Hotels"
+ },
+ {
+   "mcc": 3691,
+   "nazwa": "Dillion Inns"
+ },
+ {
+   "mcc": 3692,
+   "nazwa": "Doubletree Hotels"
+ },
+ {
+   "mcc": 3693,
+   "nazwa": "Drury Inns"
+ },
+ {
+   "mcc": 3694,
+   "nazwa": "Economy Inns Of America"
+ },
+ {
+   "mcc": 3695,
+   "nazwa": "Embassy Suites"
+ },
+ {
+   "mcc": 3696,
+   "nazwa": "Exel Inns"
+ },
+ {
+   "mcc": 3697,
+   "nazwa": "Farfield Hotels"
+ },
+ {
+   "mcc": 3698,
+   "nazwa": "Harley Hotels"
+ },
+ {
+   "mcc": 3699,
+   "nazwa": "Midway Motor Lodge"
+ },
+ {
+   "mcc": 3700,
+   "nazwa": "Motel 6"
+ },
+ {
+   "mcc": 3701,
+   "nazwa": "GUEST QUARTERS (Formally PICKETT SUITE HOTELS)"
+ },
+ {
+   "mcc": 3702,
+   "nazwa": "The Registry Hotels"
+ },
+ {
+   "mcc": 3703,
+   "nazwa": "Residence Inns"
+ },
+ {
+   "mcc": 3704,
+   "nazwa": "Royce Hotels"
+ },
+ {
+   "mcc": 3705,
+   "nazwa": "Sandman Inns"
+ },
+ {
+   "mcc": 3706,
+   "nazwa": "Shilo Inns"
+ },
+ {
+   "mcc": 3707,
+   "nazwa": "Shoneys Inns"
+ },
+ {
+   "mcc": 3709,
+   "nazwa": "Super8 Motels"
+ },
+ {
+   "mcc": 3710,
+   "nazwa": "The Ritz Carlton Hotels"
+ },
+ {
+   "mcc": 3711,
+   "nazwa": "Flag Inns (Ausralia)"
+ },
+ {
+   "mcc": 3712,
+   "nazwa": "Golden Chain Hotel"
+ },
+ {
+   "mcc": 3713,
+   "nazwa": "Quality Pacific Hotel"
+ },
+ {
+   "mcc": 3714,
+   "nazwa": "Four Seasons Hotel (Australia)"
+ },
+ {
+   "mcc": 3715,
+   "nazwa": "Farifield Inn"
+ },
+ {
+   "mcc": 3716,
+   "nazwa": "Carlton Hotels"
+ },
+ {
+   "mcc": 3717,
+   "nazwa": "City Lodge Hotels"
+ },
+ {
+   "mcc": 3718,
+   "nazwa": "Karos Hotels"
+ },
+ {
+   "mcc": 3719,
+   "nazwa": "Protea Hotels"
+ },
+ {
+   "mcc": 3720,
+   "nazwa": "Southern Sun Hotels"
+ },
+ {
+   "mcc": 3721,
+   "nazwa": "Hilton Conrad"
+ },
+ {
+   "mcc": 3722,
+   "nazwa": "Wyndham Hotel And Resorts"
+ },
+ {
+   "mcc": 3723,
+   "nazwa": "Rica Hotels"
+ },
+ {
+   "mcc": 3724,
+   "nazwa": "Iner Nor Hotels"
+ },
+ {
+   "mcc": 3725,
+   "nazwa": "Seaines Planation"
+ },
+ {
+   "mcc": 3726,
+   "nazwa": "Rio Suites"
+ },
+ {
+   "mcc": 3727,
+   "nazwa": "Broadmoor Hotel"
+ },
+ {
+   "mcc": 3728,
+   "nazwa": "Ballyls Hotel And Casino"
+ },
+ {
+   "mcc": 3729,
+   "nazwa": "John Ascuagals Nugget"
+ },
+ {
+   "mcc": 3730,
+   "nazwa": "Mgm Grand Hotel"
+ },
+ {
+   "mcc": 3731,
+   "nazwa": "Harrahls Hotels And Casinos"
+ },
+ {
+   "mcc": 3732,
+   "nazwa": "Opryland Hotel"
+ },
+ {
+   "mcc": 3733,
+   "nazwa": "Boca Raton Resort"
+ },
+ {
+   "mcc": 3734,
+   "nazwa": "Harvey/Bristol Hotels"
+ },
+ {
+   "mcc": 3835,
+   "nazwa": "Masters Economy Inns"
+ },
+ {
+   "mcc": 3736,
+   "nazwa": "Colorado Belle/Edgewater Resort"
+ },
+ {
+   "mcc": 3737,
+   "nazwa": "Riviera Hotel And Casino"
+ },
+ {
+   "mcc": 3738,
+   "nazwa": "Tropicana Resort And Casino"
+ },
+ {
+   "mcc": 3739,
+   "nazwa": "Woodside Hotels And Resorts"
+ },
+ {
+   "mcc": 3740,
+   "nazwa": "Townplace Suites"
+ },
+ {
+   "mcc": 3741,
+   "nazwa": "Millenium Broadway Hotel"
+ },
+ {
+   "mcc": 3742,
+   "nazwa": "Club Med"
+ },
+ {
+   "mcc": 3743,
+   "nazwa": "Biltmore Hotel And Suites"
+ },
+ {
+   "mcc": 3744,
+   "nazwa": "Carefree Resorts"
+ },
+ {
+   "mcc": 3745,
+   "nazwa": "St. Regis Hotel"
+ },
+ {
+   "mcc": 3746,
+   "nazwa": "The Eliot Hotel"
+ },
+ {
+   "mcc": 3747,
+   "nazwa": "Clubcorp/Club Resorts"
+ },
+ {
+   "mcc": 3748,
+   "nazwa": "Welesley Inns"
+ },
+ {
+   "mcc": 3749,
+   "nazwa": "The Beverly Hills Hotel"
+ },
+ {
+   "mcc": 3750,
+   "nazwa": "Crowne Plaza Hotels"
+ },
+ {
+   "mcc": 3751,
+   "nazwa": "Homewood Suites"
+ },
+ {
+   "mcc": 3752,
+   "nazwa": "Peabody Hotels"
+ },
+ {
+   "mcc": 3753,
+   "nazwa": "Greenbriah Resorts"
+ },
+ {
+   "mcc": 3754,
+   "nazwa": "Amelia Island Planation"
+ },
+ {
+   "mcc": 3755,
+   "nazwa": "The Homestead"
+ },
+ {
+   "mcc": 3756,
+   "nazwa": "South Seas Resorts"
+ },
+ {
+   "mcc": 4111,
+   "nazwa": "Lokalny/Podmiejski transport pasazerski koleje promy lokalny transport wodny"
+ },
+ {
+   "mcc": 4112,
+   "nazwa": "Koleje pasazerskie"
+ },
+ {
+   "mcc": 4119,
+   "nazwa": "Pogotowie ratunkowe"
+ },
+ {
+   "mcc": 4121,
+   "nazwa": "Taksowki i limuzyny"
+ },
+ {
+   "mcc": 4131,
+   "nazwa": "Linie autobusowe w tym czarterowane autobusy turystyczne"
+ },
+ {
+   "mcc": 4131,
+   "nazwa": "Autobusy turystyczne"
+ },
+ {
+   "mcc": 4214,
+   "nazwa": "Lokalne uslugi dostawy"
+ },
+ {
+   "mcc": 4214,
+   "nazwa": "Przewoznicy towarowi"
+ },
+ {
+   "mcc": 4214,
+   "nazwa": "Przewoznicy towarowi samochody"
+ },
+ {
+   "mcc": 4214,
+   "nazwa": "Firmy przewozowe i magazynowe"
+ },
+ {
+   "mcc": 4214,
+   "nazwa": "Przewozy ciezarowe lokalne/dlugodystansowe"
+ },
+ {
+   "mcc": 4215,
+   "nazwa": "Uslugi kurierskie powietrzne lub naziemne"
+ },
+ {
+   "mcc": 4215,
+   "nazwa": "Spedycja"
+ },
+ {
+   "mcc": 4225,
+   "nazwa": "Magazyny"
+ },
+ {
+   "mcc": 4225,
+   "nazwa": "Hurtownie"
+ },
+ {
+   "mcc": 4411,
+   "nazwa": "Linie wycieczkowe"
+ },
+ {
+   "mcc": 4411,
+   "nazwa": "Parowce"
+ },
+ {
+   "mcc": 4457,
+   "nazwa": "Czartery i dzierzawa jachtow"
+ },
+ {
+   "mcc": 4468,
+   "nazwa": "Przystanie jachtowe obsluga i zaopatrzenie jachtow"
+ },
+ {
+   "mcc": 4511,
+   "nazwa": "Linie lotnicze przewoznicy lotniczy (nigdzie indziej nie wymienieni)"
+ },
+ {
+   "mcc": 4582,
+   "nazwa": "Lotniska terminale lotnicze"
+ },
+ {
+   "mcc": 4582,
+   "nazwa": "Ladowiska"
+ },
+ {
+   "mcc": 4722,
+   "nazwa": "Biura podrozy i agencje podrozy"
+ },
+ {
+   "mcc": 4723,
+   "nazwa": "Przewoznicy towarowi (do stosowania tylko w Niemczech)"
+ },
+ {
+   "mcc": 4784,
+   "nazwa": "Oplaty drogowe i za przeprawy mostowe"
+ },
+ {
+   "mcc": 4789,
+   "nazwa": "Uslugi transportowe nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 4812,
+   "nazwa": "Urzadzenia telekomunikacyjne w tym sprzedaz telefonow"
+ },
+ {
+   "mcc": 4814,
+   "nazwa": "Uslugi faksowe"
+ },
+ {
+   "mcc": 4814,
+   "nazwa": "Uslugi telekomunikacyjne w tym polaczenia lokalne i miedzystrefowe polaczenia z kart kredytowych rozmowy telefoniczne wykonywane kartami telefonicznymi oraz uslugi faksowe"
+ },
+ {
+   "mcc": 4815,
+   "nazwa": "VisaPhone"
+ },
+ {
+   "mcc": 4821,
+   "nazwa": "Uslugi telegraficzne"
+ },
+ {
+   "mcc": 4829,
+   "nazwa": "Przekazy pieniezne transfer kablowy"
+ },
+ {
+   "mcc": 4899,
+   "nazwa": "Telewizja kablowa i inne platne telewizje"
+ },
+ {
+   "mcc": 4900,
+   "nazwa": "Narzedzia elektryczne gazowe sanitarne i wodne"
+ },
+ {
+   "mcc": 5013,
+   "nazwa": "Zaopatrzenie samochodowe nowe czesci samochodowe"
+ },
+ {
+   "mcc": 5021,
+   "nazwa": "Meble sklepowe i biurowe"
+ },
+ {
+   "mcc": 5039,
+   "nazwa": "Materialy budowlane nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 5044,
+   "nazwa": "Wyposazenie biurowe fotograficzne fotokopii i mikrofilmow"
+ },
+ {
+   "mcc": 5045,
+   "nazwa": "Oprogramowanie komputerowe urzadzenia peryferyjne oprogramowanie"
+ },
+ {
+   "mcc": 5046,
+   "nazwa": "Wyposazenie handlowe gdzie indziej niesklasyfikowana"
+ },
+ {
+   "mcc": 5047,
+   "nazwa": "Sprzet szpitalny i zaopatrzenie medyczne stomatologiczne i okulistyczne"
+ },
+ {
+   "mcc": 5051,
+   "nazwa": "Centra Serwisowe i biurowe"
+ },
+ {
+   "mcc": 5065,
+   "nazwa": "Czesci i urzadzenia elektryczne"
+ },
+ {
+   "mcc": 5072,
+   "nazwa": "Sprzet komputerowy i materialy eksploatacyjne"
+ },
+ {
+   "mcc": 5074,
+   "nazwa": "Sprzet sanitarny i grzejny"
+ },
+ {
+   "mcc": 5085,
+   "nazwa": "Dostawy przemyslowe nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 5094,
+   "nazwa": "Szlachetne kamienie i metale zegarki i bizuteria"
+ },
+ {
+   "mcc": 5099,
+   "nazwa": "Dobra trwale nigdzie indziej niesklasyfikowana"
+ },
+ {
+   "mcc": 5111,
+   "nazwa": "Artykuly papiernicze biurowe drukarnie i papier"
+ },
+ {
+   "mcc": 5122,
+   "nazwa": "srodki odurzajace wlasciciele aptek"
+ },
+ {
+   "mcc": 5131,
+   "nazwa": "Towary w kawalkach galanteria i inne suche towary"
+ },
+ {
+   "mcc": 5137,
+   "nazwa": "Ubiory meskie damskie i dzieciece"
+ },
+ {
+   "mcc": 5139,
+   "nazwa": "Obuwie"
+ },
+ {
+   "mcc": 5169,
+   "nazwa": "Chemikalia i produkty zwiazane z nimi nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 5172,
+   "nazwa": "Ropa naftowa i produkty naftowe paliwo"
+ },
+ {
+   "mcc": 5192,
+   "nazwa": "Ksiazki czasopisma i prasa"
+ },
+ {
+   "mcc": 5193,
+   "nazwa": "Artykuly kwiaciarskie material szkolkarski i kwiaty"
+ },
+ {
+   "mcc": 5198,
+   "nazwa": "Farby lakiery i akcesoria"
+ },
+ {
+   "mcc": 5199,
+   "nazwa": "Towary nietrwale nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 5200,
+   "nazwa": "Dostawy domowe ze sklepow"
+ },
+ {
+   "mcc": 5211,
+   "nazwa": "Sklepy z drewnem i materialami budowlanymi"
+ },
+ {
+   "mcc": 5231,
+   "nazwa": "Sklepy ze szklem"
+ },
+ {
+   "mcc": 5231,
+   "nazwa": "Sklepy z farbami i tapetami"
+ },
+ {
+   "mcc": 5231,
+   "nazwa": "Sklep z tapetami"
+ },
+ {
+   "mcc": 5251,
+   "nazwa": "Sklepy ze sprzetem"
+ },
+ {
+   "mcc": 5261,
+   "nazwa": "Sklepy z zaopatrzeniem ogrodowym trawniki szkolki"
+ },
+ {
+   "mcc": 5271,
+   "nazwa": "Dealerzy mobilnych domkow"
+ },
+ {
+   "mcc": 5300,
+   "nazwa": "Hurtownie"
+ },
+ {
+   "mcc": 5309,
+   "nazwa": "Sklepy wolnoclowe"
+ },
+ {
+   "mcc": 5310,
+   "nazwa": "Sklepy dyskontowe"
+ },
+ {
+   "mcc": 5311,
+   "nazwa": "Domy handlowe"
+ },
+ {
+   "mcc": 5331,
+   "nazwa": "Sklepy z roznosciami"
+ },
+ {
+   "mcc": 5399,
+   "nazwa": "Roznorodne gadzety"
+ },
+ {
+   "mcc": 5411,
+   "nazwa": "Sklepy spozywcze"
+ },
+ {
+   "mcc": 5411,
+   "nazwa": "Supermarkety"
+ },
+ {
+   "mcc": 5422,
+   "nazwa": "Zamrazarki i szafki miesne"
+ },
+ {
+   "mcc": 5422,
+   "nazwa": "Zamrazarki i szafki miesne"
+ },
+ {
+   "mcc": 5441,
+   "nazwa": "Sklepy cukiernicze"
+ },
+ {
+   "mcc": 5441,
+   "nazwa": "Cukiernie"
+ },
+ {
+   "mcc": 5441,
+   "nazwa": "Sklepy z orzechami"
+ },
+ {
+   "mcc": 5451,
+   "nazwa": "Sklepy z nabialem"
+ },
+ {
+   "mcc": 5462,
+   "nazwa": "Piekarnie"
+ },
+ {
+   "mcc": 5499,
+   "nazwa": "Sklepy spozywcze sklepy pierwszej potrzeby i specjalne"
+ },
+ {
+   "mcc": 5511,
+   "nazwa": "Dealerzy samochodow osobowych i ciezarowych (nowe i uzywane) sprzedaz serwis naprawy czesci leasing"
+ },
+ {
+   "mcc": 5521,
+   "nazwa": "Dealerzy samochodow i ciezarowek (tylko uzywane)"
+ },
+ {
+   "mcc": 5531,
+   "nazwa": "Sklepy samochodowe"
+ },
+ {
+   "mcc": 5532,
+   "nazwa": "Sklepy z oponami do samochodow"
+ },
+ {
+   "mcc": 5533,
+   "nazwa": "Sklepy z czesciami i akcesoriami do samochodow"
+ },
+ {
+   "mcc": 5541,
+   "nazwa": "Stacje serwisowe (z lub bez uslug dodatkowych)"
+ },
+ {
+   "mcc": 5542,
+   "nazwa": "Samoobslugowe stacje benzynowe"
+ },
+ {
+   "mcc": 5551,
+   "nazwa": "Dealerzy lodzi"
+ },
+ {
+   "mcc": 5561,
+   "nazwa": "Dealerzy przyczep kampingowych rekreacyjnych"
+ },
+ {
+   "mcc": 5571,
+   "nazwa": "Dealerzy motocykli"
+ },
+ {
+   "mcc": 5592,
+   "nazwa": "Dealerzy samochodow kempingowych"
+ },
+ {
+   "mcc": 5598,
+   "nazwa": "Dealerzy pojazdow sniegowych"
+ },
+ {
+   "mcc": 5611,
+   "nazwa": "Sklepy z akcesoriami i odzieza meska i chlopieca"
+ },
+ {
+   "mcc": 5621,
+   "nazwa": "Sklepy z odzieza damska"
+ },
+ {
+   "mcc": 5631,
+   "nazwa": "Sklepy specjalistyczne z damskimi akcesoriami"
+ },
+ {
+   "mcc": 5641,
+   "nazwa": "Odziez dla dzieci i niemowlat"
+ },
+ {
+   "mcc": 5651,
+   "nazwa": "Sklepy odziezowe rodzinne"
+ },
+ {
+   "mcc": 5655,
+   "nazwa": "Stroje i akcesoria sportowe"
+ },
+ {
+   "mcc": 5661,
+   "nazwa": "Sklepy obuwnicze"
+ },
+ {
+   "mcc": 5681,
+   "nazwa": "Kusnierze i sklepy z futrami"
+ },
+ {
+   "mcc": 5691,
+   "nazwa": "Sklepy z odzieza dla mezczyzn i kobiet"
+ },
+ {
+   "mcc": 5697,
+   "nazwa": "Krawiec szwaczka cerowania"
+ },
+ {
+   "mcc": 5698,
+   "nazwa": "Sklepy z perukami i czapkami"
+ },
+ {
+   "mcc": 5699,
+   "nazwa": "Sklepy z innymi akcesoriami i odzieza"
+ },
+ {
+   "mcc": 5712,
+   "nazwa": "Meble wyposazenie wnetrz wyposazenie magazynow z wyjatkiem urzadzen"
+ },
+ {
+   "mcc": 5713,
+   "nazwa": "Sklepy z wykladzinami podlogowymi"
+ },
+ {
+   "mcc": 5714,
+   "nazwa": "Sklepy z firanami zaslonami do okien oraz sklepy tapicerskie"
+ },
+ {
+   "mcc": 5718,
+   "nazwa": "Sklepy z kominkami ekrany kominkowe i akcesoria"
+ },
+ {
+   "mcc": 5719,
+   "nazwa": "Sklepy z akcesoriami meblowymi"
+ },
+ {
+   "mcc": 5722,
+   "nazwa": "Sklepy z urzadzeniami AGD"
+ },
+ {
+   "mcc": 5732,
+   "nazwa": "Sprzedaz urzadzen elektronicznych"
+ },
+ {
+   "mcc": 5733,
+   "nazwa": "Sklepy z muzyka instrumentami muzycznymi papierem muzycznym"
+ },
+ {
+   "mcc": 5734,
+   "nazwa": "Sklepy z oprogramowaniem komputerowym"
+ },
+ {
+   "mcc": 5735,
+   "nazwa": "Sklepy muzyczne"
+ },
+ {
+   "mcc": 5811,
+   "nazwa": "Firmy cateringowe"
+ },
+ {
+   "mcc": 5812,
+   "nazwa": "Restauracje gastronomia"
+ },
+ {
+   "mcc": 5813,
+   "nazwa": "Pijalnie (napoje alkoholowe) bary tawerny kluby nocne i dyskoteki"
+ },
+ {
+   "mcc": 5814,
+   "nazwa": "Fast foody"
+ },
+ {
+   "mcc": 5912,
+   "nazwa": "Drogerie i apteki"
+ },
+ {
+   "mcc": 5921,
+   "nazwa": "Sklepy z piwem winem alkoholem"
+ },
+ {
+   "mcc": 5931,
+   "nazwa": "Sklep z rzeczami uzywanymi gadzetami"
+ },
+ {
+   "mcc": 5832,
+   "nazwa": "Antykwariaty sprzedaz naprawa i uslugi konserwatorskie"
+ },
+ {
+   "mcc": 5933,
+   "nazwa": "Lombardy"
+ },
+ {
+   "mcc": 5935,
+   "nazwa": "Rozbiorki"
+ },
+ {
+   "mcc": 5937,
+   "nazwa": "Reprodukcje antykow"
+ },
+ {
+   "mcc": 5940,
+   "nazwa": "Sklepy rowerowe sprzedaz i serwis"
+ },
+ {
+   "mcc": 5941,
+   "nazwa": "Sprzet sportowy"
+ },
+ {
+   "mcc": 5942,
+   "nazwa": "Ksiegarnie"
+ },
+ {
+   "mcc": 5943,
+   "nazwa": "Sklepy papiernicze artykulow biurowych i szkolnych"
+ },
+ {
+   "mcc": 5944,
+   "nazwa": "Sklepy z zegarkami bizuteria i srebrem Jubilerzy"
+ },
+ {
+   "mcc": 5945,
+   "nazwa": "Sklepy z zabawkami grami"
+ },
+ {
+   "mcc": 5946,
+   "nazwa": "Sklepy z aparatami fotograficznymi oraz osprzetem"
+ },
+ {
+   "mcc": 5947,
+   "nazwa": "Sklepy z prezentami gadzetami oraz sklepy z pamiatkami"
+ },
+ {
+   "mcc": 5948,
+   "nazwa": "Sklepy ze skora"
+ },
+ {
+   "mcc": 5949,
+   "nazwa": "Sklepy z artykulami do szycia igly tkaniny"
+ },
+ {
+   "mcc": 5950,
+   "nazwa": "Sklepy ze szklem / krysztalami"
+ },
+ {
+   "mcc": 5960,
+   "nazwa": "Marketing bezposredni uslugi ubezpieczenia"
+ },
+ {
+   "mcc": 5961,
+   "nazwa": "Domy sprzedazy wysylkowej wlacznie z zamowieniami z katalogow (nie jest juz dozwolone)"
+ },
+ {
+   "mcc": 5962,
+   "nazwa": "Marketing bezposredni uslugi biur podrozy"
+ },
+ {
+   "mcc": 5963,
+   "nazwa": "Sprzedaz bezposrednia (drzwi w drzwi)"
+ },
+ {
+   "mcc": 5964,
+   "nazwa": "Marketing bezposredni Katalogi sprzedawcy"
+ },
+ {
+   "mcc": 5965,
+   "nazwa": "Marketing bezposredni Katalogi i wykazy sprzedawcy detalicznego"
+ },
+ {
+   "mcc": 5966,
+   "nazwa": "Marketing bezposredni telemarketing"
+ },
+ {
+   "mcc": 5967,
+   "nazwa": "Marketing bezposredni TeleSerwis"
+ },
+ {
+   "mcc": 5968,
+   "nazwa": "Marketing bezposredni Subskrypcje"
+ },
+ {
+   "mcc": 5969,
+   "nazwa": "Marketing bezposredni nigdzie indziej nie sklasyfikowane"
+ },
+ {
+   "mcc": 5970,
+   "nazwa": "Sklepy z artykulami artystycznymi rekodzielem"
+ },
+ {
+   "mcc": 5971,
+   "nazwa": "Marszandzi i galerie sztuki"
+ },
+ {
+   "mcc": 5972,
+   "nazwa": "Sklepy z pieczatkami i pieniedzmi akcesoria filatelistyczne i numizmatyczne"
+ },
+ {
+   "mcc": 5973,
+   "nazwa": "Dewocjonalia"
+ },
+ {
+   "mcc": 5975,
+   "nazwa": "Sklepy z aparatami sluchowymi sprzedaz serwis"
+ },
+ {
+   "mcc": 5976,
+   "nazwa": "Sprzet ortopedyczny urzadzenia protetyczne"
+ },
+ {
+   "mcc": 5977,
+   "nazwa": "Sklepy kosmetyczne drogerie"
+ },
+ {
+   "mcc": 5978,
+   "nazwa": "Sklepy z maszynami do pisania sprzedaz wynajem serwis"
+ },
+ {
+   "mcc": 5983,
+   "nazwa": "Stacje benzynowe olej opalowy drewno wegiel benzyna"
+ },
+ {
+   "mcc": 5992,
+   "nazwa": "Kwiaciarnie"
+ },
+ {
+   "mcc": 5993,
+   "nazwa": "Sklepy z cygarami"
+ },
+ {
+   "mcc": 5994,
+   "nazwa": "Kolportarz gazet"
+ },
+ {
+   "mcc": 5995,
+   "nazwa": "Sklepy zoologiczne pokarm dla zwierzat domowych akcesoria"
+ },
+ {
+   "mcc": 5996,
+   "nazwa": "Baseny sprzedaz serwis i materialy eksploatacyjne"
+ },
+ {
+   "mcc": 5997,
+   "nazwa": "Sklepy z golarkami elektrycznymi sprzedaz i serwis"
+ },
+ {
+   "mcc": 5998,
+   "nazwa": "Sklepy z namiotami"
+ },
+ {
+   "mcc": 5999,
+   "nazwa": "Sklepy z roznosciami"
+ },
+ {
+   "mcc": 6010,
+   "nazwa": "Instytucje finansowe reczny rozdzial srodkow pienieznych"
+ },
+ {
+   "mcc": 6011,
+   "nazwa": "Instytucje finansowe reczny rozdzial srodkow pienieznych"
+ },
+ {
+   "mcc": 6012,
+   "nazwa": "Instytucje finansowe towary i uslugi"
+ },
+ {
+   "mcc": 6051,
+   "nazwa": "Instytucje niefinansowe kursy walutowe przekazy pieniezne (nie przelew) i czeki podrozne"
+ },
+ {
+   "mcc": 6211,
+   "nazwa": "Brokerzy lub dealerzy uslug ochrony"
+ },
+ {
+   "mcc": 6300,
+   "nazwa": "Sprzedaz ubezpieczen"
+ },
+ {
+   "mcc": 6381,
+   "nazwa": "Skladki ubezpieczeniowe"
+ },
+ {
+   "mcc": 6399,
+   "nazwa": "Ubezpieczenia nigdzie indziej nie sklasyfikowane"
+ },
+ {
+   "mcc": 7011,
+   "nazwa": "Noclegi Hotele motele uslugi centralnej rezerwacji (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 7012,
+   "nazwa": "Wspolwlasnosc"
+ },
+ {
+   "mcc": 7032,
+   "nazwa": "Obozy sportowe i rekreacyjne"
+ },
+ {
+   "mcc": 7033,
+   "nazwa": "Parki naczep przyczep oraz kampingow"
+ },
+ {
+   "mcc": 7210,
+   "nazwa": "Uslugi czyszczenia odziezy pralnie"
+ },
+ {
+   "mcc": 7211,
+   "nazwa": "Uslugi pralni Rodzina i handlowe"
+ },
+ {
+   "mcc": 7216,
+   "nazwa": "Pralnie chemiczne"
+ },
+ {
+   "mcc": 7217,
+   "nazwa": "Czyszczenie dywanow i tapicerki"
+ },
+ {
+   "mcc": 7221,
+   "nazwa": "Studia fotograficzne"
+ },
+ {
+   "mcc": 7230,
+   "nazwa": "Fryzjerzy"
+ },
+ {
+   "mcc": 7251,
+   "nazwa": "Czyszczenie i reparacja butow i kapeluszy"
+ },
+ {
+   "mcc": 7261,
+   "nazwa": "Krematoria oraz uslugi pogrzebowe"
+ },
+ {
+   "mcc": 7273,
+   "nazwa": "Uslugi ogloszeniowe randki"
+ },
+ {
+   "mcc": 7276,
+   "nazwa": "Uslugi podatkowe"
+ },
+ {
+   "mcc": 7277,
+   "nazwa": "Poradnie dlugi malzenstwo"
+ },
+ {
+   "mcc": 7278,
+   "nazwa": "Uslugi zakupow"
+ },
+ {
+   "mcc": 7296,
+   "nazwa": "Wynajem odziezy kostiumy odziez wizytowa mundury"
+ },
+ {
+   "mcc": 7297,
+   "nazwa": "Salony masazu"
+ },
+ {
+   "mcc": 7298,
+   "nazwa": "Zdrowie i Uroda sklepy"
+ },
+ {
+   "mcc": 7299,
+   "nazwa": "Zawody rozne (nigdzie indziej nie klasyfikowane)"
+ },
+ {
+   "mcc": 7311,
+   "nazwa": "Uslugi reklamowe"
+ },
+ {
+   "mcc": 7321,
+   "nazwa": "Agencje raportowania zdolnosci kredytowej klentow"
+ },
+ {
+   "mcc": 7332,
+   "nazwa": "Uslugi fotokopiowania i wykonywania odbitek"
+ },
+ {
+   "mcc": 7333,
+   "nazwa": "Fotografia i grafika"
+ },
+ {
+   "mcc": 7338,
+   "nazwa": "Uslugi kopiowania reprodukcji i wykonywania odbitek"
+ },
+ {
+   "mcc": 7339,
+   "nazwa": "Uslugi stenograficzne"
+ },
+ {
+   "mcc": 7342,
+   "nazwa": "Uslugi dezynfekcyjne"
+ },
+ {
+   "mcc": 7342,
+   "nazwa": "Uslugi dezynfekcyjne"
+ },
+ {
+   "mcc": 7349,
+   "nazwa": "Uslugi czyszczenia konserwacji i sprzatania"
+ },
+ {
+   "mcc": 7361,
+   "nazwa": "Agencje zatrudnienia"
+ },
+ {
+   "mcc": 7372,
+   "nazwa": "Programowanie komputerowe zintegrowane systemy projektowania i uslugi przetwarzania danych"
+ },
+ {
+   "mcc": 7375,
+   "nazwa": "Uslugi wyszukiwania informacji"
+ },
+ {
+   "mcc": 7379,
+   "nazwa": "Uslugi konserwacji i naprawy komputerow nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 7392,
+   "nazwa": "Uslugi zarzadzania doradztwa i PR"
+ },
+ {
+   "mcc": 7393,
+   "nazwa": "Uslugi ochrony w tym przy uzyciu samochodow pancernych i psow obronnych"
+ },
+ {
+   "mcc": 7394,
+   "nazwa": "Wypozyczalnie sprzetu narzedzi mebli i AGD"
+ },
+ {
+   "mcc": 7395,
+   "nazwa": "Laboratoria obrobki fotograficznej"
+ },
+ {
+   "mcc": 7399,
+   "nazwa": "Uslugi dla firm nigdzie indziej niesklasyfikowane"
+ },
+ {
+   "mcc": 7512,
+   "nazwa": "Wypozyczalnia samochodow (niewymienione ponizej)"
+ },
+ {
+   "mcc": 7513,
+   "nazwa": "Wynajem ciezarowek"
+ },
+ {
+   "mcc": 7519,
+   "nazwa": "Wynajem samochodow kempingowych i rekreacyjnych"
+ },
+ {
+   "mcc": 7523,
+   "nazwa": "Parkingi samochodowe i garaze"
+ },
+ {
+   "mcc": 7531,
+   "nazwa": "Sklepy motoryzacyjne blacharstwo"
+ },
+ {
+   "mcc": 7534,
+   "nazwa": "Stacje obslugi bieznikowanie opon"
+ },
+ {
+   "mcc": 7535,
+   "nazwa": "Sklepy motoryzacyjne lakiernictwo"
+ },
+ {
+   "mcc": 7538,
+   "nazwa": "Salony serwisowe samochodowe Auto Serwis"
+ },
+ {
+   "mcc": 7542,
+   "nazwa": "Myjnie samochodowe"
+ },
+ {
+   "mcc": 7549,
+   "nazwa": "Uslugi holowania"
+ },
+ {
+   "mcc": 7622,
+   "nazwa": "Warsztaty naprawy radia"
+ },
+ {
+   "mcc": 7623,
+   "nazwa": "Stacje obslugi klimatyzacja i chlodnictwo"
+ },
+ {
+   "mcc": 7629,
+   "nazwa": "Naprawa urzadzen elektrycznych"
+ },
+ {
+   "mcc": 7631,
+   "nazwa": "Naprawa zegarkow bizuterii"
+ },
+ {
+   "mcc": 7641,
+   "nazwa": "Meble renowacja mebli naprawa mebli"
+ },
+ {
+   "mcc": 7692,
+   "nazwa": "Spawalnictwo"
+ },
+ {
+   "mcc": 7699,
+   "nazwa": "Naprawa rzeczy roznych"
+ },
+ {
+   "mcc": 7829,
+   "nazwa": "Produkcja filmow i produkcji tasmy video dystrybucja"
+ },
+ {
+   "mcc": 7832,
+   "nazwa": "Kina"
+ },
+ {
+   "mcc": 7841,
+   "nazwa": "Wypozyczalnie wideo"
+ },
+ {
+   "mcc": 7911,
+   "nazwa": "Studia i szkoly tanca"
+ },
+ {
+   "mcc": 7922,
+   "nazwa": "Producenci teatralni (z wyjatkiem filmow) agencje biletow"
+ },
+ {
+   "mcc": 7929,
+   "nazwa": "Zespoly orkiestry i artysci rozni (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 7932,
+   "nazwa": "Bilard"
+ },
+ {
+   "mcc": 7933,
+   "nazwa": "Kregielnie"
+ },
+ {
+   "mcc": 7941,
+   "nazwa": "Sporty zawodowe kluby sportowe i promotorzy sportowi"
+ },
+ {
+   "mcc": 7991,
+   "nazwa": "Atrakcje turystyczne"
+ },
+ {
+   "mcc": 7992,
+   "nazwa": "Pola golfowe publiczne"
+ },
+ {
+   "mcc": 7993,
+   "nazwa": "Rozrywkowe gry wideo"
+ },
+ {
+   "mcc": 7994,
+   "nazwa": "Gry wideo"
+ },
+ {
+   "mcc": 7995,
+   "nazwa": "Zaklady (w tym kupony loteryjne zetony do gier kasynowych zaklady)"
+ },
+ {
+   "mcc": 7996,
+   "nazwa": "Parki rozrywki karnawaly cyrki wrozki"
+ },
+ {
+   "mcc": 7997,
+   "nazwa": "Kluby czlonkostwa (sport rekreacja atletyka) kluby krajowe i prywatne pola golfowe"
+ },
+ {
+   "mcc": 7998,
+   "nazwa": "Akwaria delfinaria"
+ },
+ {
+   "mcc": 7999,
+   "nazwa": "Uslugi rekreacyjne (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 8011,
+   "nazwa": "Lekarze (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 8021,
+   "nazwa": "Lekarze dentysci i ortodonci"
+ },
+ {
+   "mcc": 8031,
+   "nazwa": "Osteopaci"
+ },
+ {
+   "mcc": 8041,
+   "nazwa": "Kregarze"
+ },
+ {
+   "mcc": 8042,
+   "nazwa": "Optycy i okulisci"
+ },
+ {
+   "mcc": 8043,
+   "nazwa": "Optycy sklepy z okularami i akcesoriami optycznymi"
+ },
+ {
+   "mcc": 8044,
+   "nazwa": "Optycy sklepy z okularami i akcesoriami optycznymi"
+ },
+ {
+   "mcc": 8049,
+   "nazwa": "Pedicurzysci"
+ },
+ {
+   "mcc": 8050,
+   "nazwa": "Pielegniarstwo i opieka osobista"
+ },
+ {
+   "mcc": 8062,
+   "nazwa": "Szpitale"
+ },
+ {
+   "mcc": 8071,
+   "nazwa": "Laboratoria medyczne i stomatologiczne"
+ },
+ {
+   "mcc": 8099,
+   "nazwa": "Uslugi medyczne i praktyki lekarskie (nigdzie indziej niesklasyfikowane)"
+ },
+ {
+   "mcc": 8111,
+   "nazwa": "Uslugi prawnicze adwokackie"
+ },
+ {
+   "mcc": 8211,
+   "nazwa": "Szkoly podstawowe i gimnazja"
+ },
+ {
+   "mcc": 8220,
+   "nazwa": "Uczelnie uniwersytety i szkoly doskonalenia zawodowego"
+ },
+ {
+   "mcc": 8241,
+   "nazwa": "Szkoly korespondencyjne"
+ },
+ {
+   "mcc": 8244,
+   "nazwa": "Szkoly biznesu"
+ },
+ {
+   "mcc": 8249,
+   "nazwa": "Szkoly policealne i szkoly zawodowe"
+ },
+ {
+   "mcc": 8299,
+   "nazwa": "Szkoly i uslugi oswiatowe (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 8351,
+   "nazwa": "Uslugi opieki nad dziecmi"
+ },
+ {
+   "mcc": 8398,
+   "nazwa": "Organizacje charytatywne i spoleczne"
+ },
+ {
+   "mcc": 8641,
+   "nazwa": "Stowarzyszen spolecznych"
+ },
+ {
+   "mcc": 8651,
+   "nazwa": "Organizacje polityczne"
+ },
+ {
+   "mcc": 8661,
+   "nazwa": "Organizacje religijne"
+ },
+ {
+   "mcc": 8675,
+   "nazwa": "Stowarzyszenia samochodowe"
+ },
+ {
+   "mcc": 8699,
+   "nazwa": "Inne organizacje czlonkowskie (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 8734,
+   "nazwa": "Laboratoria badawczych (niemedyczne)"
+ },
+ {
+   "mcc": 8911,
+   "nazwa": "Uslugi architektoniczno inzynieryjne i pomiarowe"
+ },
+ {
+   "mcc": 8931,
+   "nazwa": "Uslugi ksiegowosci audyty ksiegowe"
+ },
+ {
+   "mcc": 8999,
+   "nazwa": "Wolnych zawodow (nigdzie indziej nie zdefiniowane)"
+ },
+ {
+   "mcc": 9211,
+   "nazwa": "Kosztow sadowe w tym wsparcie alimentacyjne dziecka"
+ },
+ {
+   "mcc": 9222,
+   "nazwa": "Grzywny"
+ },
+ {
+   "mcc": 9223,
+   "nazwa": "Poreczenia obligacje"
+ },
+ {
+   "mcc": 9311,
+   "nazwa": "Podatki"
+ },
+ {
+   "mcc": 9399,
+   "nazwa": "Uslugi rzadowych (nigdzie indziej nie sklasyfikowane)"
+ },
+ {
+   "mcc": 9402,
+   "nazwa": "Uslugi pocztowe rzad tylko"
+ },
+ {
+   "mcc": 9405,
+   "nazwa": "Transakcje rzadowe"
+ },
+ {
+   "mcc": 9700,
+   "nazwa": "Zautomatyzowana usluga referencyjna (jedynie Visa)"
+ },
+ {
+   "mcc": 9701,
+   "nazwa": "Usluga Visa"
+ },
+ {
+   "mcc": 9702,
+   "nazwa": "Uslugi awaryjne GCAS (jedynie Visa)"
+ },
+ {
+   "mcc": 9950,
+   "nazwa": "Zakup przedsiebiorstwa (jedynie Visa)"
+ }
+]
