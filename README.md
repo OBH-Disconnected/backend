@@ -14,7 +14,7 @@ Set hostname and database credentials in file /src/repositories/MySQLConnection.
 
 In main directory execute:
 
-* npm install
-* npm start
+#### `npm install`
+#### `npm start`
 
 Api should start under address http://localhost:3001/
