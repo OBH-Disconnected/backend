@@ -18,6 +18,6 @@
     "express": "^4.17.1",
     "jsrsasign": "^8.0.12",
     "mysql": "^2.17.1",
-    "node-forge": "^0.9.1"
+    "node-forge": "^0.10.0"
   }
 }
